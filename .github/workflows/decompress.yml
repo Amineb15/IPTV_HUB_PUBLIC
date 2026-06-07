@@ -19,22 +19,18 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Remove old playlist
-        run: |
-          rm -f generated/IPTV_HUB.m3u
-          echo "Old playlist removed."
+        run: rm -f generated/IPTV_HUB.m3u
 
-      - name: Decompress new playlist
+      - name: Decompress and strip playlist
         run: |
           gunzip -f generated/IPTV_HUB.m3u.gz
 
           sed -i \
-          -e 's/ tvg-id=""//g' \
-          -e 's/ tvg-name=""//g' \
-          -e 's/ tvg-logo=""//g' \
-          -e 's/ group-title=""//g' \
+          -e 's/ tvg-id="[^"]*"//g' \
+          -e 's/ tvg-name="[^"]*"//g' \
+          -e 's/ tvg-logo="[^"]*"//g' \
+          -e 's/ group-title="[^"]*"//g' \
           generated/IPTV_HUB.m3u
-
-          echo "Decompressed to generated/IPTV_HUB.m3u"
 
       - name: Commit and push
         run: |
