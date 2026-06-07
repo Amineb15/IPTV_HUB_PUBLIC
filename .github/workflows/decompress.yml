@@ -1,6 +1,9 @@
 name: Decompress Playlists
 
 on:
+  schedule:
+  #  - cron: '0 */9 * * *' # Every 9 hours
+  workflow_dispatch:
   push:
     branches:
       - main
