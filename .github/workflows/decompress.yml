@@ -1,0 +1,29 @@
+name: Decompress Playlist
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'generated/IPTV_HUB.m3u.gz'
+
+permissions:
+  contents: write
+
+jobs:
+  decompress:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Decompress playlist
+        run: gunzip -f generated/IPTV_HUB.m3u.gz
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/IPTV_HUB.m3u
+          git diff --staged --quiet || git commit -m "Auto-decompress IPTV playlist"
+          git push
