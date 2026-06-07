@@ -21,7 +21,15 @@ jobs:
         run: rm -f generated/IPTV_HUB.m3u
 
       - name: Decompress new playlist
-        run: gunzip -f generated/IPTV_HUB.m3u.gz
+        run: |
+          gunzip -f generated/IPTV_HUB.m3u.gz
+
+          sed -i \
+          -e 's/ tvg-id=""//g' \
+          -e 's/ tvg-name=""//g' \
+          -e 's/ tvg-logo=""//g' \
+          -e 's/ group-title=""//g' \
+          generated/IPTV_HUB.m3u
 
       - name: Commit and push
         run: |
