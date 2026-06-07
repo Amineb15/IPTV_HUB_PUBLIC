@@ -15,18 +15,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout public repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Remove old playlist
-        run: |
-          rm -f generated/IPTV_HUB.m3u
-          echo "Old playlist removed."
+        run: rm -f generated/IPTV_HUB.m3u
 
       - name: Decompress new playlist
-        run: |
-          gunzip -f generated/IPTV_HUB.m3u.gz
-          echo "Decompressed to generated/IPTV_HUB.m3u"
+        run: gunzip -f generated/IPTV_HUB.m3u.gz
 
       - name: Commit and push
         run: |
