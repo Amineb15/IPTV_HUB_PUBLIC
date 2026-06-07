@@ -1,11 +1,11 @@
-name: Decompress Playlist
+name: Decompress Playlists
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'generated/IPTV_HUB.m3u.gz'
+      - 'generated/*.m3u.gz'
 
 permissions:
   contents: write
@@ -18,24 +18,27 @@ jobs:
       - name: Checkout public repository
         uses: actions/checkout@v4
 
-      - name: Remove old playlist
-        run: rm -f generated/IPTV_HUB.m3u
-
-      - name: Decompress and strip playlist
+      - name: Decompress and strip all playlists
         run: |
-          gunzip -f generated/IPTV_HUB.m3u.gz
+          for file in generated/*.m3u.gz; do
+            [ -f "$file" ] || continue
+            gunzip -f "$file"
+            base="${file%.gz}"
 
-          sed -i \
-          -e 's/ tvg-id="[^"]*"//g' \
-          -e 's/ tvg-name="[^"]*"//g' \
-          -e 's/ tvg-logo="[^"]*"//g' \
-          -e 's/ group-title="[^"]*"//g' \
-          generated/IPTV_HUB.m3u
+            sed -i \
+            -e 's/ tvg-id="[^"]*"//g' \
+            -e 's/ tvg-name="[^"]*"//g' \
+            -e 's/ tvg-logo="[^"]*"//g' \
+            -e 's/ group-title="[^"]*"//g' \
+            "$base"
+
+            echo "Decompressed $base"
+          done
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add generated/IPTV_HUB.m3u
-          git diff --staged --quiet || git commit -m "Auto-decompress IPTV playlist"
+          git add generated/*.m3u
+          git diff --staged --quiet || git commit -m "Auto-decompress IPTV playlists"
           git push
