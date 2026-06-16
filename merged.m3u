@@ -397,7 +397,7 @@ https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PGATour.us@SD" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",PGA Tour (1080p)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVDeportes.us@SD" tvg-logo="https://i.imgur.com/0pDy6f4.png" group-title="Sports",Pluto TV Deportes
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us@SD" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="Sports",Pluto TV Deportes
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.us@Italy" tvg-logo="https://i.imgur.com/y22ElOr.png" group-title="Sports",Pluto TV Sport
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
@@ -1533,7 +1533,7 @@ http://103.72.101.252:8080/live/429.m3u8
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedia a lo bestia de Pluto TV
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Brazil" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="Comedy",Comedy Central Pluto TV
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Brazil" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Comedy",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="ComedyTV.ge@SD" tvg-logo="https://i.imgur.com/i1TANKv.png" group-title="Comedy",Comedy TV
 http://31.146.5.178:8087/play/a00b/index.m3u8
@@ -1779,8 +1779,6 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EscuchameRadioTV.ni@SD" tvg-logo="https://i.imgur.com/gt6UvG8.png" group-title="Religious",Escúchame Radio TV (720p) [Not 24/7]
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
-#EXTINF:-1 tvg-id="EskaRockTV.pl@SD" tvg-logo="https://i.imgur.com/o0Fg19Q.png" group-title="Music",Eska Rock TV (1080p) [Not 24/7]
-http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19172/index.m3u8
 #EXTINF:-1 tvg-id="EsperiaTV.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" group-title="General",Esperia TV (480p)
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="EspirituSantoYFuegoTV.gt@SD" tvg-logo="https://i.imgur.com/8mdSWO4.jpg" group-title="Religious",Espíritu Santo Y Fuego TV (480p)
@@ -2621,7 +2619,7 @@ https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:-1 tvg-id="MTVOriginals.us@Spain" tvg-logo="https://i.imgur.com/qWf8Zku.png" group-title="Series",MTV Originals
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
-#EXTINF:-1 tvg-id="MTVPlutoTV.us@Brazil" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Entertainment",MTV Pluto TV
+#EXTINF:-1 tvg-id="MTVPlutoTV.us@Brazil" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png" group-title="Entertainment",MTV Pluto TV
 https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png" group-title="Entertainment",MTV Pluto TV LatAm (720p)
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
@@ -2953,25 +2951,25 @@ https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
 https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Action Movies
 https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnimaux.us@France" tvg-logo="https://i.imgur.com/jxYlLsd.png" group-title="Travel",Pluto TV Animaux
+#EXTINF:-1 tvg-id="PlutoTVAnimaux.us@France" tvg-logo="" group-title="Undefined",Pluto TV Animaux
 https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
-#EXTINF:-1 tvg-id="BritishComedy.us@SD" tvg-logo="https://i.imgur.com/LlwoR74.png" group-title="Comedy",Pluto TV British Comedy
+#EXTINF:-1 tvg-id="BritishComedy.us@SD" tvg-logo="https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png" group-title="Comedy",Pluto TV British Comedy
 https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Canal UOL (720p)
 https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@Spain" tvg-logo="https://i.imgur.com/1H1MHb2.png" group-title="Movies",Pluto TV Cine Comédia
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@Spain" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Movies",Pluto TV Cine Comédia
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Cine Comédia Romântica
 https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@Brazil" tvg-logo="https://i.imgur.com/WXMD53u.png" group-title="Movies",Pluto TV Cine Romance
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@Brazil" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="Movies",Pluto TV Cine Romance
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineRomantico.us@Spain" tvg-logo="https://i.imgur.com/jh9Ycq3.png" group-title="Movies",Pluto TV Cine Romántico
+#EXTINF:-1 tvg-id="PlutoTVCineRomantico.us@Spain" tvg-logo="" group-title="Undefined",Pluto TV Cine Romántico
 https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 #EXTINF:-1 tvg-id="ComediaMadeinSpain.us@SD" tvg-logo="https://i.imgur.com/8ddFdSQ.png" group-title="Comedy",Pluto TV Comedia made in Spain
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedias Románticas
 https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVComedie.us@France" tvg-logo="https://i.imgur.com/1e4IFrS.png" group-title="Comedy",Pluto TV Comédie
+#EXTINF:-1 tvg-id="PlutoTVComedie.us@France" tvg-logo="" group-title="Undefined",Pluto TV Comédie
 https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comédies Cultes
 https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
@@ -2981,7 +2979,7 @@ https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
 https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedy Therapie
 https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCompetencias.us@SD" tvg-logo="https://i.imgur.com/VNa7HX6.png" group-title="Undefined",Pluto TV Competencias
+#EXTINF:-1 tvg-id="PlutoTVCompetencias.us@SD" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png" group-title="Undefined",Pluto TV Competencias
 https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Competition
 https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
@@ -2993,9 +2991,9 @@ https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Film Ancora Più Romantici
 https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilmCommedia.us@Italy" tvg-logo="https://i.imgur.com/ADNrqKM.png" group-title="Movies",Pluto TV Film Commedia
+#EXTINF:-1 tvg-id="PlutoTVFilmCommedia.us@Italy" tvg-logo="" group-title="Undefined",Pluto TV Film Commedia
 https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilmRomantici.us@Italy" tvg-logo="https://i.imgur.com/LAvRDve.png" group-title="Movies",Pluto TV Film Romantici
+#EXTINF:-1 tvg-id="PlutoTVFilmRomantici.us@Italy" tvg-logo="" group-title="Undefined",Pluto TV Film Romantici
 https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Fran: Beste Mama-Momente
 https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8
@@ -3013,7 +3011,7 @@ https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
 https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Handboll Live
 https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistoire.us@France" tvg-logo="https://i.imgur.com/JE5xcCV.png" group-title="Travel",Pluto TV Histoire (720p)
+#EXTINF:-1 tvg-id="PlutoTVHistoire.us@France" tvg-logo="" group-title="Undefined",Pluto TV Histoire (720p)
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Hometown Drama
 https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
@@ -3027,7 +3025,7 @@ https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV PetrolHeads
 https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
-#EXTINF:-1 tvg-id="PlutoTVPolar.us@France" tvg-logo="https://i.imgur.com/yApGRsb.png" group-title="Series",Pluto TV Polar
+#EXTINF:-1 tvg-id="PlutoTVPolar.us@France" tvg-logo="" group-title="Undefined",Pluto TV Polar
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Policial
 https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
@@ -3039,17 +3037,17 @@ https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
 https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Retro Crime Action
 https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRomance.us@US" tvg-logo="https://i.imgur.com/GJBxfyf.png" group-title="Movies",Pluto TV Romance
+#EXTINF:-1 tvg-id="PlutoTVRomance.us@US" tvg-logo="https://i.imgur.com/GJBxfyf.png" group-title="Movies;Series",Pluto TV Romance
 https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Romantik
 https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Romantikk
 https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@Spain" tvg-logo="https://i.imgur.com/INcTSkj.png" group-title="Comedy",Pluto TV Séries Comédia
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@Spain" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Comedy;Series",Pluto TV Séries Comédia
 https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Series de Comedia
 https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSitcoms.us@Germany" tvg-logo="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/colorLogoPNG.png" group-title="Comedy",Pluto TV Sitcoms
+#EXTINF:-1 tvg-id="PlutoTVSitcoms.us@Germany" tvg-logo="" group-title="Undefined",Pluto TV Sitcoms
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Ungdomsserier (720p)
 https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
@@ -3881,6 +3879,8 @@ https://panel.host-live.com:19360/8042/8042.m3u8
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 tvg-id="TVGideoes.br@SD" tvg-logo="https://i.imgur.com/dDomKND.png" group-title="Religious",TV Gideoes (1080p) [Not 24/7]
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGolfoUraba.co@SD" tvg-logo="https://i.imgur.com/Nd5axnS.png" group-title="Entertainment",TV Golfo Uraba
+https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br@SD" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Entertainment",TV Grande Natal (1080p)
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br@SD" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="Undefined",TV Guará (720p) [Not 24/7]
