@@ -269,6 +269,8 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@SD" tvg-logo="https://i.imgur.com/mRsnztA.png"group-title="Sports",FightBox
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 tvg-id="FITE247.us@SD" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Sports",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-id="FloHockey.us@HD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/flohockey-white.png" group-title="Sports",FloHockey 24/7 (1080p)
@@ -331,6 +333,8 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="HTVSports.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="Sports",HTV Thể thao (1080p) [Geo-blocked]
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="InterTV.it@SD" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="Sports",Inter TV (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="Auto;Outdoor;Sports",INTROUBLE (1080p)
 https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB3.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png" group-title="Sports",IRIB3
@@ -1197,6 +1201,8 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Hungary" tvg-logo="https://i.imgur.com/nGSsUd4.png"group-title="Documentary",BBC Earth Hungary
 http://88.212.15.19/live/bbce_hun/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Romania" tvg-logo="https://i.imgur.com/nGSsUd4.png" http-referrer="https://cool-tv.net/"group-title="Documentary",BBC Earth Romania
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Turkiye" tvg-logo="https://i.imgur.com/nGSsUd4.png"group-title="Documentary",BBC Earth Turkiye
 https://nord.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye" tvg-logo="https://i.imgur.com/UBoBYUI.png"group-title="Entertainment",BBC First Turkiye
@@ -2037,8 +2043,6 @@ https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 http://86.87.15.10:8008/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusAction.pl@HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" http-referrer="https://ritsatv.ru/"group-title="Movies",FILMBOX+ Action
 https://polska.hach.workers.dev/14864.m3u8
-#EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@MagyarRomania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png"group-title="Movies",FILMBOX+ Comedy Magyar & Romania (576p)
-http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@UkraineBaltics" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Movies",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FilmRise Binge Watch France (720p)
@@ -3427,6 +3431,8 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it@SD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 (720p)
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it@HD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 HD (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png"group-title="Education",Rai Scuola (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rai Sport 2
@@ -3861,8 +3867,8 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Syfy.fr@SD" tvg-logo="https://i.imgur.com/gUOXdjv.png"group-title="Undefined",Syfy
 http://99.27.51.147:8080/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="SYFY.us@East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies;Series",SYFY (1080p)
-https://gpuserver5.tier1streams.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies;Series",SYFY (720p)
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="SzolnokTV.hu@SD" tvg-logo="https://i.imgur.com/Eiab9MP.png" group-title="General",Szolnok TV (1080p)
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="T18.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png" group-title="General",T18 (1080p)
